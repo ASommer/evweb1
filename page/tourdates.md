@@ -4,6 +4,9 @@ title: Tourdates
 description: Tourdates and Live Gigs. You may subscribe to our newsletter to be the first informed about upcoming gigs and releases.
 permalink: /tour-dates/
 ---
+# EU Tour Spring 2018
+
+---
 
 **Booking inquires, please contact:**
 
@@ -11,7 +14,7 @@ EU + UK Live Booking: ck [at] powerline-agency [dot] com
 
 US Live Booking: michael [at] heavy-trip [dot] com
 
-# EU Tour Spring 2018
+---
 
 **22.5.18** Exploded View (Full Live Band) @ Britney Schauspiel, **Köln** DE // [Tickets](https://www.schauspiel.koeln/haus/britney/)
 
@@ -152,4 +155,199 @@ US Live Booking: michael [at] heavy-trip [dot] com
       "name": "Exploded View"
     }
   }
+</script>
+
+<!-- La Vilette Sonique Paris -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Exploded View at Villete Sonique",
+  "startDate": "2018-05-26T19:30",
+  "location": {
+    "@type": "Halle",
+    "name": "Grande Halle - Nef Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "211 Av. Jean Jaures",
+      "addressLocality": "Paris",
+      "postalCode": "75019",
+      "addressCountry": "FR"
+    }
+  },
+  "image": [
+    "http://www.villettesonique.com/wp-content/uploads/2018/02/EXPLODED-VIEW-page.jpg",
+    "https://lavillette.com/wp-content/uploads/2017/05/960-18-Villette-Sonique-2.jpg",
+   ],
+  "description": "Exploded View est le dernier projet de Annika Henderson, elle est accompagnée de trois musiciens mexicains talentueux, le groupe fait un mélange de krautrock et de post punk. Mais derrière le calme apparent d’Exploded View explose aussi une énergie plus industrielle composée de loop, de drones, de sonorités métalliques, de nappes entremêlées desquelles surplombe la voix éthérée d’Annika mais des textes plutôt engagés politiquement, socialement.",
+  "endDate": "2018-05-26",
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Marquis de Sade",
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Anna von Hauswolff",
+    }]
+}
+</script>
+
+<!-- Moth Club London -->
+<script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "MusicEvent",
+    "name": "Exploded View (Full Band)",
+    "url": "http://www.mothclub.co.uk/events/2018/5/27/exploded-view",
+    "description": "Bad Vibrations is delighted to welcome Exploded View to the MOTH CLUB. ",
+    "startDate": "05/27/2018",
+    "endDate": "05/27/2018",
+    "location": {
+      "@type": "Place",
+      "name": "Moth Club",
+      "sameAs": "http://www.mothclub.co.uk",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Old Trades Hall Valette Street",
+        "addressLocality": "London",
+        "postalCode": "E9 6NU",
+        "addressCountry": "United Kingdom"
+      }
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.seetickets.com/event/exploded-view/moth-club/1208044"
+    },
+    "performer": {
+      "@type": "PerformingGroup",
+      "name": "Exploded View"
+    }
+  }
+</script>
+
+<!-- La Cave aux Poetes Roubaix-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "EXPLODED VIEW + Beechwood",
+  "url": "https://www.caveauxpoetes.com/concert-exploded-view-anika-283.html"
+  "startDate": "2018-05-28",
+  "endDate": "2018-05-28",
+  "location": {
+    "@type": "Place",
+    "name": "La Cave aux  Poètes",
+    "sameAs": "https://www.caveauxpoetes.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du Grand Chemin,",
+      "addressLocality": "Roubaix",
+      "postalCode": "59100",
+      "addressCountry": "FR"
+    }
+  },
+  "image": [
+    "http://www.caveauxpoetes.com/img/artist/exploded-view.jpg",
+    "https://bainsdeminuitblog.files.wordpress.com/2018/02/exploded-view-new.jpg?w=1200&h=400&crop=1",
+   ],
+  "description": "Exploded View est le dernier projet de Annika Henderson, elle est accompagnée de trois musiciens mexicains talentueux, le groupe fait un mélange de krautrock et de post punk. Mais derrière le calme apparent d’Exploded View explose aussi une énergie plus industrielle composée de loop, de drones, de sonorités métalliques, de nappes entremêlées desquelles surplombe la voix éthérée d’Annika mais des textes plutôt engagés politiquement, socialement.",
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Beechwood",
+  }]
+}
+</script>
+
+<!-- Le Hall des Chars Strasbourg-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Exploded View (Sacred Bones Records) + Guest",
+  "url": "https://www.facebook.com/events/2053047204980665/"
+  "startDate": "2018-05-30",
+  "endDate": "2018-05-30",
+  "location": {
+    "@type": "Place",
+    "name": "Le Hall des Chars",
+    "sameAs": "http://www.espace-k.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 rue du Hohwald",
+      "addressLocality": "Strasbourg",
+      "postalCode": "67000",
+      "addressCountry": "FR"
+    }
+  },
+  "image": [
+    "http://strasbourg.curieux.net/agenda/images/visuel/5/image_58427.jpg"
+   ],
+  "description": "Komakanette, ton partenaire des soirées qui font tchiki-boum présente un concert de qualité avec Anika, la journaliste politique et princesse du post punk.
+  Exploded View [psyché krautrock post wave / DE-MEX]
+  Derrière le calme apparent d’Exploded View explose une énergie industrielle composée de loop, de drones, de sonorités métalliques, de nappes entremêlées desquelles surplombe la voix éthérée d’Anika mais des textes plutôt engagés politiquement, socialement.
+  Véritable cocktail de pop hallucinogène, de bricolages dub et de krautrock, Exploded View est assurément l’un des groupes les plus attendus de 2018, mais aussi à long terme le meilleur prétendant au titre d’héritier légitime de feu Broadcast.",
+  "offers": {
+    "@type": "Offer",
+    "url": "http://strasbourg.curieux.net/agenda/sortie?row=58427&genre=categorie&nom=rock-n-roll&evenement=hall-des-chars-exploded-view-guest-strasbourg"
+  },
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  }]
+}
+</script>
+
+<!-- Le Brass Bruxelles / Forst-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Exploded View (Sacred Bones Records) - Public Psyche - Luminance",
+  "url": "https://www.facebook.com/events/2043685399245256/"
+  "startDate": "2018-05-30",
+  "endDate": "2018-05-30",
+  "location": {
+    "@type": "Place",
+    "name": "BRASS - Centre Culturel de Forest",
+    "sameAs": "http://lebrass.be",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue Van Volxem 364",
+      "addressLocality": "Forest/Vorst",
+      "postalCode": "1190",
+      "addressCountry": "BE"
+    }
+  },
+  "image": [
+    "https://booking.utick.be/plugins/upload/shows/5aa7b7f88e3c0_large.jpg",
+    "http://lebrass.be/wp-content/uploads/2018/03/EXPLODED-VIEW-NEW-800x533.jpg",
+   ],
+  "description": "Exploded View formalise la rencontre de l'égérie britannique ANIKA, de Martin Thulin (aussi connu pour ses travaux au sein de Crocodiles), d'Hugo Quezada (Robota) et d'Hector Melgajero (Jessy Bulbo / Nos llamamos).
+  Le résultat est un impressionant mélange de Post Punk, de Shoegaze et de Musiques Industrielles : des ambiances éthérées qui s'envolent en phases bruyantes, un mur noise surplombé par la voix si caractérique de la berlinoise Anika.
+  Le projet, du fait de la disparité géographique de ses membres (entre l'Allemagne, la Suède et le Mexique), est trop rare sur scène.
+  Cela fait déjà quelques temps que le Collectif Mental travaille au retour d'Anika en terre bruxelloise, c'est désormais effectif grâce au soutien et à la collaboration du Centre Culturel De Forest (LE BRASS).",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://booking.utick.be/?module=MODCATALOGUEDATES&POS=BRASS&activityguid=AC22C444-655F-A6FA-B416-61C938E46551"
+  },
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Public Psyche",
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Luminance",
+  }]
+}
 </script>
